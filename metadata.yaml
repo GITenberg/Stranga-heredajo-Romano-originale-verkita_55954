@@ -1,0 +1,24 @@
+_repo: Stranga-heredajo-Romano-originale-verkita_55954
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Luyken, Heinrich August
+    birthdate: 1864
+    deathdate: 1947
+    gutenberg_agent_id: '48593'
+    url: http://www.gutenberg.org/2009/agents/48593
+    wikipedia: https://eo.wikipedia.org/wiki/Heinrich_August_Luyken
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2017-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55954'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: "Stranga heredaĵo\r\nRomano originale verkita"
+url: http://www.gutenberg.org/ebooks/55954
