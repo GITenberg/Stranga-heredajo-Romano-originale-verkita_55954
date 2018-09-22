@@ -1,5 +1,8 @@
 _repo: Stranga-heredajo-Romano-originale-verkita_55954
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55954-h/images/cover.jpg
 creator:
   author:
     agent_name: Luyken, Heinrich August
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48593
     wikipedia: https://eo.wikipedia.org/wiki/Heinrich_August_Luyken
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55954#Stranga-heredajo-Romano-originale-verkita
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2017-11-13'
 gutenberg_type: Text
